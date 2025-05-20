@@ -1,0 +1,8 @@
+Prescription Receipt: 2024-10-26 10:27:52
+
+Customer Name: Harrison Lyles
+Prescribing Doctor: Dr. James Brown
+1. Amoxicillin - 50        Cost: $40.00
+2. Gabapentin - 55        Cost: $74.25
+
+Total due: $114.25
