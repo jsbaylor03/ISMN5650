@@ -1,0 +1,17 @@
+[
+    {
+        "Title": "The Hunger Games",
+        "Author": "Suzanne Collins",
+        "Status": "Checked Out"
+    },
+    {
+        "Title": "The Giver",
+        "Author": "Lois Lowry",
+        "Status": "Checked Out"
+    },
+    {
+        "Title": "Harry Potter",
+        "Author": "JK Rowling",
+        "Status": "Available"
+    }
+]

@@ -1,0 +1,25 @@
+1         0000000010Item 1                                  30        Alabama             
+2         0000000020Item 2                                  30        Alabama             
+3         0000000030Item 3                                  30        Louisiana           
+5         0000000050Item 5                                  3         Alabama             
+6         0000000060Item 6                                  3         Florida             
+8         0000000080Item 8                                  3         Alabama             
+9         0000000090Item 9                                  5         Mississippi         
+10        0000000100Item 10                                 5                             
+11        0000000110Item 11                                 5         Florida             
+12        0000000120Item 12                                 5         Mississippi         
+13        0000000130Item 13                                 5         Louisiana           
+14        0000000140Item 14                                 5         Louisiana           
+15        0000000150Item 15                                 5         Georgia             
+16        0000000160Item 16                                 5         Mississippi         
+18        0000000180Item 18                                 10                            
+20        0000000200Item 20                                 10        Mississippi         
+21        0000000210Item 21                                 10        Florida             
+22        0000000220Item 22                                 10        Georgia             
+23        0000000230Item 23                                 10                            
+24        0000000240Item 24                                 10        Florida             
+25        0000000250Item 25                                 20        Georgia             
+26        0000000260Item 26                                 20        Mississippi         
+28        0000000280Item 28                                 20        Georgia             
+29        0000000290Item 29                                 20        Mississippi         
+30        0000000300Item 30                                 20        Georgia             
