@@ -1,0 +1,128 @@
+[
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "easy": {
+            "boolean": 2,
+            "multiple": 8
+        },
+        "hard": {
+            "boolean": 0,
+            "multiple": 0
+        },
+        "medium": {
+            "boolean": 0,
+            "multiple": 0
+        }
+    },
+    {
+        "category": {
+            "id": 2,
+            "name": "General Knowledge"
+        },
+        "easy": {
+            "boolean": 2,
+            "multiple": 8
+        },
+        "hard": {
+            "boolean": 2,
+            "multiple": 8
+        },
+        "medium": {
+            "boolean": 3,
+            "multiple": 7
+        }
+    },
+    {
+        "category": {
+            "id": 3,
+            "name": "Entertainment: Books"
+        },
+        "easy": {
+            "boolean": 1,
+            "multiple": 9
+        },
+        "hard": {
+            "boolean": 0,
+            "multiple": 0
+        },
+        "medium": {
+            "boolean": 0,
+            "multiple": 0
+        }
+    },
+    {
+        "category": {
+            "id": 4,
+            "name": "Entertainment: Film"
+        },
+        "easy": {
+            "boolean": 1,
+            "multiple": 9
+        },
+        "hard": {
+            "boolean": 1,
+            "multiple": 9
+        },
+        "medium": {
+            "boolean": 0,
+            "multiple": 10
+        }
+    },
+    {
+        "category": {
+            "id": 5,
+            "name": "Entertainment: Television"
+        },
+        "easy": {
+            "boolean": 1,
+            "multiple": 9
+        },
+        "hard": {
+            "boolean": 0,
+            "multiple": 10
+        },
+        "medium": {
+            "boolean": 0,
+            "multiple": 10
+        }
+    },
+    {
+        "category": {
+            "id": 6,
+            "name": "Entertainment: Video Games"
+        },
+        "easy": {
+            "boolean": 3,
+            "multiple": 7
+        },
+        "hard": {
+            "boolean": 0,
+            "multiple": 10
+        },
+        "medium": {
+            "boolean": 0,
+            "multiple": 10
+        }
+    },
+    {
+        "category": {
+            "id": 7,
+            "name": "Entertainment: Music"
+        },
+        "easy": {
+            "boolean": 0,
+            "multiple": 0
+        },
+        "hard": {
+            "boolean": 1,
+            "multiple": 9
+        },
+        "medium": {
+            "boolean": 0,
+            "multiple": 0
+        }
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "Umbilicus",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Nevus",
+            "Nares",
+            "Paxillus"
+        ],
+        "question": "The medical term for the belly button is which of the following?",
+        "type": "multiple"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "244",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "94",
+            "481",
+            "128"
+        ],
+        "question": "What is the standard atomic weight of a Plutonium nucleus?",
+        "type": "multiple"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "False",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "True"
+        ],
+        "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
+        "type": "boolean"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "Nitrogen",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Oxygen",
+            "Argon",
+            "Carbon Dioxide"
+        ],
+        "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+        "type": "multiple"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "8",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "7",
+            "9",
+            "6"
+        ],
+        "question": "How many planets make up our Solar System?",
+        "type": "multiple"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "A black hole",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "A wormhole",
+            "A supernova",
+            "A quasar"
+        ],
+        "question": "What lies at the center of our galaxy?",
+        "type": "multiple"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "False",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "True"
+        ],
+        "question": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
+        "type": "boolean"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "206",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "203",
+            "209",
+            "200"
+        ],
+        "question": "How many bones are in the human body?",
+        "type": "multiple"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "Space",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Science",
+            "Society",
+            "Star"
+        ],
+        "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+        "type": "multiple"
+    },
+    {
+        "category": {
+            "id": 1,
+            "name": "Science &amp; Nature"
+        },
+        "correct_answer": "Femur",
+        "difficulty": "easy",
+        "incorrect_answers": [
+            "Cranium",
+            "Humerus",
+            "Tibia"
+        ],
+        "question": "Which of these bones is hardest to break?",
+        "type": "multiple"
+    }
+]
